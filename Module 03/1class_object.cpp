@@ -1,0 +1,2 @@
+// class holo user defined data type, int char double egulo jemon built in data type thik temon class holo user defined data type jekhane user bole dey je tar kache ki ki data type thakbe
+// ar object holo variable er moto, int array ba int sum likhle sum jemon ekta variable hisebe kaj kore thik temon class rakib ba class sakib likhle sakib ekta variable hisebe kaj kore ar etakei bola hocche object
